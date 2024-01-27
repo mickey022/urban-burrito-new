@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.firstset{
+    background-image: url(./homesection.7678e756af41582f3cdb.png);
+    height: 500px;
+    margin-top: 100px;
+}
+.jot{
+    width: 500px;
+
+}
+.secondset{
+    background-image: url(./second_second_bg.2b2fc7a3a617bec387c9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+
+.thirdset{
+    background-color: white;
+    height: 400px;
+}
+
+.fourthset{
+    background-image: url(./Food\ truck\ text\ bg.de097d81dc5f6abf6c65.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 535px;
+}
+
+.fifthset{
+    background-image: url(./connect_bg.f6e1523e20eb19aa5fcc.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
